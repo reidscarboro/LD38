@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 81e61facda79d8940bda512df8ef777d
+timeCreated: 1492895490
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 32
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: minimeek
+  fontNames:
+  - minimeek
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
